@@ -53,7 +53,7 @@
 ### 🎨 UI / UX
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd)
+
 
 ### 🌐 Web Development
 
