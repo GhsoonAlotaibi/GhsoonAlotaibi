@@ -73,15 +73,13 @@
 
 📊 Sales Dashboard (Power BI)
 
-📈 Vehicle Insurance Fraud Detection
-
 🐍 Data Analysis with Python
 
-🎨 Plant Care Mobile App (UI/UX)
+📈 Data Cleaning with Power Query
 
-🌐 Personal Portfolio Website
 
-🤖 AI Chatbot with RAG
+
+
 
 ---
 
